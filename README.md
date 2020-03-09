@@ -1,10 +1,6 @@
 # API GoBarber
 > API para aplicação de agendamento em barbearias e salões de beleza.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Esta API foi desenvolvida com o intuito de fornecer uma base para a aplicação em que seja possível marcar, listar e cancelar agendamentos (usuário), mostrando quais os prestadores de serviço e seus horários disponíveis. Também exibe, para o prestador de serviço, sua agenda no dia especificado.
 
 ![](../header.png)
@@ -45,4 +41,4 @@ João Vitor Viegas Rêgo – [@SeuNome](https://twitter.com/...) – SeuEmail@ex
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
+[wiki]: https://github.com/jvrviegas/api_gobarber/wiki
