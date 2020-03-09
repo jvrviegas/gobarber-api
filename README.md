@@ -10,7 +10,7 @@ Esta API foi desenvolvida com o intuito de fornecer uma base para a aplicação 
 OS X & Linux:
 
 ```sh
-yarn init -y
+yarn
 ```
 
 ## Configuração para Desenvolvimento
